@@ -48,6 +48,44 @@ Welcome to Foysal Ahmmed's Profile!
 </a>
 </p>
 
+<br>
+
+Experienced Web Development Specialist with a demonstrated history of working in the computer software industry.
+
+**Skilled in:** <br>
+01# HTML <br>
+02# HTML5 <br>
+03# Meta Tags <br>
+04# Semantic Tags <br>
+05# CSS <br>
+06# CSS3 <br>
+07# Flex Layout <br>
+08# Grid Layout <br>
+09# Media Queries <br>
+10# SASS <br>
+11# Bootstrap <br>
+12# Tailwind CSS <br>
+13# JavaScript <br>
+14# TypeScript <br>
+15# React.js <br>
+16# Redux.js <br>
+17# Git <br>
+18# GitHub <br>
+19# Git Bash <br>
+20# Netlify <br>
+21# VS Code <br>
+22# Atom <br>
+23# Sublime <br>
+24# Bracket <br>
+25# Adobe XD <br>
+26# Figma <br>
+27# Convert Any Design to HTML or React.js <br>
+28# with Error Fixing of HTML, CSS, JavaScript, React.js
+
+Strong human resources professional with a Higher Secondary Certificate focused in Science from Milestone College.
+
+<br>
+
 ![](https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&border_radius=15&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20Foysal%20Ahmmed)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&border_radius=15&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10)
