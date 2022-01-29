@@ -54,6 +54,10 @@ Welcome to Foysal Ahmmed's Profile!
 
 Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Full Stack & MERN Stack Development. I have completed 12 years of education based on educational rules of Bangladesh. Last 1.5 years I have learned many Languages, Tools & Technologies like HTML, CSS, JavaScript, ReactJS, GitHub, Netlify, Visual Studio Code etc. I have completed 45+ projects with HTML, CSS, SCSS, Bootstrap, JavaScript & ReactJS. I have 01+ years of Coding Experience with Bug Fixing. I have few knowledge about Java, Android Studio, NodeJS, ExpressJs, ReduxJS, APIs, NPM & YARN. I am an experienced Web Development Specialist with a demonstrated history of working in the Computer Software Industry.
 
+## **My Skills:**
+
+**Languages:** HTML, CSS, JavaScript, TypeScript, Markdown, XML.
+
 **Skilled in:** <br>
 01# HTML <br>
 02# HTML5 <br>
