@@ -91,3 +91,5 @@ Strong human resources professional with a Higher Secondary Certificate focused 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&border_radius=15&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10)
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84)
+
+![](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=pmfoysal&bg_color=2c323a&color=fa4eab&line=fa4eab&point=eeeeee&hide_border=true)
