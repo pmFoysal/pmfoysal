@@ -56,7 +56,10 @@ Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Fu
 
 ## **My Skills:**
 
-**Languages:** HTML, CSS, JavaScript, TypeScript, Markdown, XML.
+**Languages:** HTML, CSS, JavaScript, TypeScript, Markdown, XML, Java (Basic).
+<br>
+**Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS (Basic), NodeJS (Basic).
+<br>
 
 **Skilled in:** <br>
 01# HTML <br>
