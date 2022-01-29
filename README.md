@@ -52,21 +52,21 @@ Welcome to Foysal Ahmmed's Profile!
 
 ## **About Me:**
 
-Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Full Stack & MERN Stack Development. I have completed 12 years of education based on educational rules of Bangladesh. Last 1.5 years I have learned many Languages, Tools & Technologies like HTML, CSS, JavaScript, ReactJS, GitHub, Netlify, Visual Studio Code etc. I have completed 45+ projects with HTML, CSS, SCSS, Bootstrap, JavaScript & ReactJS. I have 01+ years of Coding Experience with Bug Fixing. I have few knowledge about Java, Android Studio, NodeJS, ExpressJs, ReduxJS, APIs, NPM & YARN. I am an experienced Web Development Specialist with a demonstrated history of working in the Computer Software Industry.
+Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently I am focusing on Full Stack & MERN Stack Development. I have completed 12 years of education based on educational rules of Bangladesh. Last 1.5 years I have learned many Languages, Tools & Technologies like HTML, CSS, JavaScript, ReactJS, GitHub, Netlify, Visual Studio Code etc. I have completed 45+ projects with HTML, CSS, SCSS, Bootstrap, JavaScript & ReactJS. I have 01+ years of Coding Experience with Bug Fixing. I have few knowledge about Java, Android Studio, NodeJS, ExpressJs, ReduxJS, APIs, NPM & YARN. I am an experienced Web Development Specialist with a demonstrated history of working in the Computer Software Industry. Strong human resources professional with a Higher Secondary Certificate focused in Science from Milestone College.
 
 ## **My Skills:**
 
+**OS:** Windows, Android.
+<br>
 **Languages:** HTML, CSS, JavaScript, TypeScript, Markdown, XML, Java (Basic).
-<br>
-**Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS (Basic), NodeJS (Basic).
-<br>
-**Features:** HTML5, Semantic Tags, Meta Tags, HTML Canvas, CSS3, Flex Layout, Grid Layout, Media Queries, ES5, ES6, JSX.
 <br>
 **Tools:** Git, ZSH, CLI, GitHub, Netlify, Vercel, Heroku, Android Studio, NPM, YARN.
 <br>
-**Softwares:** Adobe XD, PhotoShop, Illustrator, CorelDraw, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office.
+**Features:** HTML5, Semantic Tags, Meta Tags, HTML Canvas, CSS3, Flex Layout, Grid Layout, Media Queries, ES5, ES6, JSX.
 <br>
-**OS:** Windows, Android.
+**Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS (Basic), NodeJS (Basic).
+<br>
+**Softwares:** Adobe XD, PhotoShop, Illustrator, CorelDraw, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office.
 <br>
 
 ## **What I Do:**
@@ -78,44 +78,18 @@ Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Fu
 **Others:** Bug & Error Fixing of (HTML / CSS / JavaScript / ReactJS / Bootstrap / TailwindCSS / Styled Components / Git / GitHub / Netlify / VS Code / CLI).
 <br>
 
-**Skilled in:** <br>
-01# HTML <br>
-02# HTML5 <br>
-03# Meta Tags <br>
-04# Semantic Tags <br>
-05# CSS <br>
-06# CSS3 <br>
-07# Flex Layout <br>
-08# Grid Layout <br>
-09# Media Queries <br>
-10# SASS <br>
-11# Bootstrap <br>
-12# Tailwind CSS <br>
-13# JavaScript <br>
-14# TypeScript <br>
-15# React.js <br>
-16# Redux.js <br>
-17# Git <br>
-18# GitHub <br>
-19# Git Bash <br>
-20# Netlify <br>
-21# VS Code <br>
-22# Atom <br>
-23# Sublime <br>
-24# Bracket <br>
-25# Adobe XD <br>
-26# Figma <br>
-27# Convert Any Design to HTML or React.js <br>
-28# with Error Fixing of HTML, CSS, JavaScript, React.js
+## **Total Languages:**
 
-Strong human resources professional with a Higher Secondary Certificate focused in Science from Milestone College.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10)
 
-<br>
+## **Total Activities:**
 
-![](https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&border_radius=15&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20Foysal%20Ahmmed)
+![](https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20Foysal%20Ahmmed)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&border_radius=15&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10)
+## **Total Streaks:**
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84)
+
+## **Total Contributions:**
 
 ![](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=pmfoysal&bg_color=2c323a&color=fa4eab&line=fa4eab&point=eeeeee&hide_border=true)
