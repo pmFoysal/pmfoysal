@@ -71,7 +71,9 @@ Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Fu
 
 ## **What I Do:**
 
-**Static:** Web Design, PSD to HTML, Figma to HTML, CSS to Bootstrap, CSS to TailwindCSS, Website Responsiveness.
+**Static:** Web Design, PSD to HTML & CSS, Figma to HTML & CSS, CSS to Bootstrap, CSS to TailwindCSS, Website Responsiveness.
+<br>
+**Dynamic:** Web development, HTML to ReactJS, Figma to ReactJS, PSD to ReactJS, ReactJS with (CSS / SASS / React Strap / CSS Module / Styled Components / Bootstrap).
 <br>
 
 **Skilled in:** <br>
