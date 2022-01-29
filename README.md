@@ -78,21 +78,9 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 **Others:** Bug & Error Fixing of (HTML / CSS / JavaScript / ReactJS / Bootstrap / TailwindCSS / Styled Components / Git / GitHub / Netlify / VS Code / CLI).
 <br>
 
-<h2>
-<details>
-<summary>Total Languages:</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10)" alt="Total Languages" title="Total Languages"/>
-</details>
-</h2>
+## **Total Languages:**
 
-<h2>
-<details>
-<summary>Total Activities:</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20Foysal%20Ahmmed" alt="Total Activities" title="Total Activities"/>
-</details>
-</h2>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10)
 
 ## **Total Activities:**
 
