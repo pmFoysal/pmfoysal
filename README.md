@@ -86,9 +86,13 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 </details>
 </h2>
 
-## **Total Activities:**
-
-![](https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20Foysal%20Ahmmed)
+<h2>
+<details>
+<summary>Total Activities:</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20Foysal%20Ahmmed" alt="Total Activities" title="Total Activities"/>
+</details>
+</h2>
 
 ## **Total Streaks:**
 
