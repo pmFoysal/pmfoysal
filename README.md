@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
 Welcome to Foysal Ahmmed's Profile!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Web%20Developer%20%26%20Designer;Learning%20Full%20Stack%20Development;Also%20Learning%20MERN%20Stack%20Development;12%20Years%2B%20Educational%20Experience;01%20Year%2B%20Coding%20Experience;40%2B%20Projects%20Completed;04%2B%20Languages%20Learned&font=baloo%20da%202&center=true&height=45&color=fa4eab&vCenter=true&size=20">
@@ -50,7 +50,9 @@ Welcome to Foysal Ahmmed's Profile!
 
 <br>
 
-Experienced Web Development Specialist with a demonstrated history of working in the computer software industry.
+## **About Me:**
+
+Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Full Stack & MERN Stack Development. I have completed 12 years of education based on educational rules of Bangladesh. Last 1.5 years I have learned many Languages, Tools & Technologies like HTML, CSS, JavaScript, ReactJS, GitHub, Netlify, Visual Studio Code etc. I have completed 45+ projects with HTML, CSS, SCSS, Bootstrap, JavaScript & ReactJS. I have 01+ years of Coding Experience with Bug Fixing. I have few knowledge about Java, Android Studio, NodeJS, ExpressJs, ReduxJS, APIs, NPM & YARN. I am an experienced Web Development Specialist with a demonstrated history of working in the Computer Software Industry.
 
 **Skilled in:** <br>
 01# HTML <br>
