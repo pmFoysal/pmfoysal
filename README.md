@@ -62,11 +62,16 @@ Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Fu
 <br>
 **Features:** HTML5, Semantic Tags, Meta Tags, HTML Canvas, CSS3, Flex Layout, Grid Layout, Media Queries, ES5, ES6, JSX.
 <br>
-**Tools:** Git, ZSH, CLI, GitHub, Netlify, Vercel, Heroku.
+**Tools:** Git, ZSH, CLI, GitHub, Netlify, Vercel, Heroku, Android Studio, NPM, YARN.
 <br>
 **Softwares:** Adobe XD, PhotoShop, Illustrator, CorelDraw, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office.
 <br>
 **OS:** Windows, Android.
+<br>
+
+## **What I Do:**
+
+**Static:** Web Design, PSD to HTML, Figma to HTML, CSS to Bootstrap, CSS to TailwindCSS, Website Responsiveness.
 <br>
 
 **Skilled in:** <br>
