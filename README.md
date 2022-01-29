@@ -92,4 +92,4 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 
 ## **Total Contributions:**
 
-![](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=pmfoysal&bg_color=2c323a&color=fa4eab&line=fa4eab&point=eeeeee&hide_border=true)
+![](https://activity-graph.herokuapp.com/graph/?username=pmfoysal&bg_color=2c323a&color=fa4eab&line=fa4eab&point=eeeeee&hide_border=true)
