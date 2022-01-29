@@ -94,9 +94,13 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 </details>
 </h2>
 
-## **Total Streaks:**
-
-![](http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84)
+<h2>
+<details>
+<summary>Total Streaks:</summary>
+<br>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="Total Streaks" title="Total Streaks"/>
+</details>
+</h2>
 
 ## **Total Contributions:**
 
