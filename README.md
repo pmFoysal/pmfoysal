@@ -60,7 +60,9 @@ Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Fu
 <br>
 **Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS (Basic), NodeJS (Basic).
 <br>
-**Features:** HTML5, Semantic Tags, Meta Tags, HTML Canvas, CSS3, Flex Layout, Grid Layout, ES5, ES6, JSX.
+**Features:** HTML5, Semantic Tags, Meta Tags, HTML Canvas, CSS3, Flex Layout, Grid Layout, Media Queries, ES5, ES6, JSX.
+<br>
+**Tools:** Git, ZSH, CLI, GitHub, Netlify, Vercel, Heroku.
 <br>
 
 **Skilled in:** <br>
