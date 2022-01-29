@@ -64,7 +64,9 @@ Hi, I am a Bengali based Web Developer & Designer. Currently I am focusing on Fu
 <br>
 **Tools:** Git, ZSH, CLI, GitHub, Netlify, Vercel, Heroku.
 <br>
-**OS** Windows, Android.
+**Softwares:** Adobe XD, PhotoShop, Illustrator, CorelDraw, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office.
+<br>
+**OS:** Windows, Android.
 <br>
 
 **Skilled in:** <br>
