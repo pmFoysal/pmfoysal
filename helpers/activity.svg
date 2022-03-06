@@ -1,29 +1,19 @@
 <svg fill="none" viewBox="0 0 800 400" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-<!-- <defs>
-   <style>
-      .object {
-         height: auto;
-         width: 100%;
-      }
-   </style>
-</defs> -->
 	<foreignObject height="100%" width="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
             .activity {
-               <!-- display: grid;
-               grid-template-columns: repeat(2, 1fr); -->
                display: flex;
                flex-wrap: wrap;
                justify-content: space-between;
                gap: 10px;
             }
-
             .activity img {
                width: calc(50% - 5px);
                height: auto;
             }
 			</style>
+         
 			<div class="activity">
 				<img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&amp;count_private=true&amp;show_icons=true&amp;hide_border=true&amp;bg_color=2c323a&amp;text_color=eee&amp;icon_color=fa4eab&amp;title_color=fa4eab&amp;cache_seconds=1800&amp;include_all_commits=false&amp;custom_title=Overall%20Activity%20of%20pmfoysal" alt="activity of pmfoysal" />
 

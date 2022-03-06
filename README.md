@@ -86,6 +86,14 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 
 <img src="helpers/activity.svg" alt="Overall Activity of all Accounts" />
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysal" alt="activity-of-pmfoysal" />
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysal" alt="activity-of-pmfoysal" />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysal)
 
 ![](https://github-readme-stats.vercel.app/api?username=pmfoysalx&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysalx)
