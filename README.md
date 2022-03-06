@@ -85,20 +85,27 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 ## **Total Activities:**
 
 <p>
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysal" alt="activity-of-pmfoysal" />
+<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysal" alt="activity-of-pmfoysal" />
 &nbsp;
 &nbsp;
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysalx&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysalx" alt="activity-of-pmfoysalx" />
+<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysalx&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysalx" alt="activity-of-pmfoysalx" />
 </p>
 
 <p>
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysaly&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysaly" alt="activity-of-pmfoysaly" />
+<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysaly&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysaly" alt="activity-of-pmfoysaly" />
 &nbsp;
 &nbsp;
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysalz&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=true&custom_title=Overall%20Activity%20of%20pmfoysalz" alt="activity-of-pmfoysalz" />
+<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysalz&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysalz" alt="activity-of-pmfoysalz" />
 </p>
 
 ## **Total Streaks:**
+
+<p>
+<img width="48.5%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysal" />
+&nbsp;
+&nbsp;
+<img width="48.5%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysalx&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysalx" />
+</p>
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84)
 
