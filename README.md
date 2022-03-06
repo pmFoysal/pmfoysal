@@ -78,11 +78,18 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 **Others:** Bug & Error Fixing of (HTML / CSS / JavaScript / ReactJS / Bootstrap / TailwindCSS / Styled Components / Git / GitHub / Netlify / VS Code / CLI).
 <br>
 
-## **Total Languages:** (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)
+## **Total Languages: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
+
+<p>
+<img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysal" />
+&nbsp;
+&nbsp;
+<img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysalx&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysalx" />
+</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10)
 
-## **Total Activities:** (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)
+## **Total Activities: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
 
 <p>
 <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysal" alt="activity-of-pmfoysal" />
@@ -98,7 +105,7 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysalz&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysalz" alt="activity-of-pmfoysalz" />
 </p>
 
-## **Total Streaks:** (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)
+## **Total Streaks: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
 
 <p>
 <img width="48.5%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysal" />
