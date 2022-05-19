@@ -52,37 +52,42 @@ Welcome to Foysal Ahmmed's Profile!
 
 ## **About Me:**
 
-Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently I am focusing on Full Stack & MERN Stack Development. I have completed 12 years of education based on educational rules of Bangladesh. Last 1.5 years I have learned many Languages, Tools & Technologies like HTML, CSS, JavaScript, ReactJS, GitHub, Netlify, Visual Studio Code etc. I have completed 45+ projects with HTML, CSS, SCSS, Bootstrap, JavaScript & ReactJS. I have 01+ years of Coding Experience with Bug Fixing. I have few knowledge about Java, Android Studio, NodeJS, ExpressJs, ReduxJS, APIs, NPM & YARN. I am an experienced Web Development Specialist with a demonstrated history of working in the Computer Software Industry. Strong human resources professional with a Higher Secondary Certificate focused in Science from Milestone College.
+Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently I am focusing on MERN Stack Development, next will be FullStack Development. I have completed 12 years of education based on educational system of Bangladesh. Last 1.5 years, I have learned many Languages, Tools & Technologies. I have completed 55+ small projects recently and have 1.5 years of Coding Experience with Bug Fixing. My dream is to work as a Software Engineer in the Computer Software Industry.
 
 ## **My Skills:**
 
-**OS:** Windows, Android.
-<br>
-**Languages:** HTML, CSS, JavaScript, TypeScript, Markdown, XML, Java (Basic).
-<br>
-**Tools:** Git, ZSH, CLI, GitHub, Netlify, Vercel, Heroku, Android Studio, NPM, YARN.
-<br>
-**Features:** HTML5, Semantic Tags, Meta Tags, HTML Canvas, CSS3, Flex Layout, Grid Layout, Media Queries, ES5, ES6, JSX.
-<br>
-**Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS (Basic), NodeJS (Basic).
-<br>
-**Softwares:** Adobe XD, PhotoShop, Illustrator, CorelDraw, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office.
-<br>
+**OS:** Windows, Android. <br>
+**Languages:** HTML, CSS, JavaScript, TypeScript, Markdown. <br>
+**CLI:** CMD, Powershell, Git Bash, MongoDB Compass, Postman, ZSH. <br>
+**Hosting:** GitHub Pages, Netlify, Firebase, Heroku. <br>
+**Database:** MongoDB, Firebase. <br>
+**Authentication:** Email, Google, Facebook, Github, Microsoft, Twitter. <br>
+**Authorization:** JSON Web Token (JWT). <br>
+**Version Control:** Git <br>
+**Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS, NodeJS. <br>
+**Softwares:** Adobe XD, PhotoShop, Illustrator, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office. <br>
+
+## **Skill Details:**
+
+**HTML:** HTML5, Semantic, Meta, SEO Friendly. <br>
+**CSS:** CSS3, Flex, Grid, Animation, Responsive, Media Query. <br>
+**JavaScript:** ES5, ES6, Function, Class, Array, Object, JSON. <br>
+**ReactJS:** JSX, Props, State, Conditional Rendering, Hooks, Lifecycle Methods, Context API, Routing, Private Routing. <br>
+**NextJS:** API, Static Site Generation, Server Side Rendering. <br>
+**MongoDB:** Create, Read, Update, Delete, Filter, Projection, Aggregation. <br>
+**NodeJS:** API, API Protection, Verify User. <br>
 
 ## **What I Do:**
 
-**Static:** Web Design, PSD to HTML & CSS, Figma to HTML & CSS, CSS to Bootstrap, CSS to TailwindCSS, Website Responsiveness.
-<br>
-**Dynamic:** Web Development, HTML to ReactJS, Figma to ReactJS, PSD to ReactJS, ReactJS with (CSS / SASS / React Strap / CSS Module / Styled Components / Bootstrap).
-<br>
-**Others:** Bug & Error Fixing of (HTML / CSS / JavaScript / ReactJS / Bootstrap / TailwindCSS / Styled Components / Git / GitHub / Netlify / VS Code / CLI).
-<br>
+**Static:** Web Design, Any Design File to HTML with CSS (Raw, Bootstrap, TailwindCSS), Website Responsiveness. <br>
+**Dynamic:** Web Development, Any Design File to ReactJS or NextJS with CSS (Raw, Bootstrap, React Bootstrap, TailwindCSS, CSS Module, Styled Components). <br>
+**Others:** Bug & Error Fixing of HTML, CSS, JavaScript, ReactJS, Bootstrap, TailwindCSS, Styled Components, Git, GitHub, Netlify, VS Code and CLI. <br>
 
 ## **Total Languages: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
 
 <p>
 <img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysal" />
-&nbsp;
+<!-- &nbsp;
 &nbsp;
 <img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysalx&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysalx" />
 &nbsp;
@@ -90,7 +95,7 @@ Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently 
 <img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysaly&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysaly" />
 &nbsp;
 &nbsp;
-<img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysalz&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysalz" />
+<img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysalz&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysalz" /> -->
 </p>
 
 ## **Total Activities: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
