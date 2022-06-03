@@ -15,7 +15,7 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Jr. Fulls
 
 ## **Technical Skills:**
 
-**Frontend:** HTML, CSS, JavaScript, ReactJS, Markdown, TailwindCSS, Bootstrap, SASS, Styled Components, CSS Module, DaisyUI, Payment (Stripe), Context API, Private Route, Custom Hook. <br>
+**Frontend:** HTML, CSS, JavaScript, ReactJS (Context API, Private Route, Custom Hook, Lazy, Suspense, Outlet), Markdown, TailwindCSS, Bootstrap, SASS, Styled Components, CSS Module, DaisyUI, Payment (Stripe). <br>
 **Backend:** NodeJS, ExpressJS, MongoDB, Firebase (Database, Auth, Storage), JSON Web Token. <br>
 **Familiar:** TypeScript, NextJS, ReduxJS, React Form, React Query, Material UI, Ant Design. <br>
 **Features/Tools:** DOM, BOM, Fetch, Axios, Interceptors, Webpack, Postman, Github, Netlify, Heroku. <br>
@@ -27,7 +27,7 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Jr. Fulls
 **CSS:** CSS3, Flex, Grid, Animation, Responsive, Media Query. <br>
 **JavaScript:** ES5, ES6, Function, Class, Array, Object, JSON. <br>
 **TypeScript:** Type, Enums, Tuples, Interface, Alias, Union, Intersection, Literal, Narrowing. <br>
-**ReactJS:** JSX, Props, State, Conditional Rendering, Hooks, Lifecycle Methods, Context API, Routing, Private Routing. <br>
+**ReactJS:** JSX, Props, State, Conditional Rendering, Hooks, Lifecycle Methods, Context API, Routing, Outlet, Private Routing. <br>
 **NextJS:** API, Static Site Generation, Server Side Rendering. <br>
 **MongoDB:** Create, Read, Update, Delete, Filter, Projection, Aggregation. <br>
 **NodeJS:** Modules (fs, http, url, path, cypto, process, os). <br>
