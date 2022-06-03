@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome to my Profile!
+Hey, Welcome Here!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -7,15 +7,11 @@ Welcome to my Profile!
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Web%20Developer%20%26%20Designer;Learning%20Full%20Stack%20Development;Also%20Learning%20MERN%20Stack%20Development;12%20Years%2B%20Educational%20Experience;01%20Year%2B%20Coding%20Experience;40%2B%20Projects%20Completed;04%2B%20Languages%20Learned&font=baloo%20da%202&center=true&height=45&color=fa4eab&vCenter=true&size=20">
 </p>
 
-<p align="center">
-  [**Facebook**](https://facebook.com/pmfoysalz)
-</p>
-
-<br>
-
 ## **About Me:**
 
-Hi, I am **Foysal Ahmmed**, a Bengali based Web Developer & Designer. Currently I am focusing on MERN Stack Development, next will be FullStack Development. I have completed 12 years of education based on educational system of Bangladesh. Last 1.5 years, I have learned many Languages, Tools & Technologies. I have completed 55+ small projects recently and have 1.5 years of Coding Experience with Bug Fixing. My dream is to work as a Software Engineer in the Computer Software Industry.
+Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Developer. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization and build up my career as a Software Engineer in the Computer Software Industry.
+
+[**Facebook**](https://facebook.com/pmfoysalz) - [**Instagram**](https://instagram.com/pmfoysalz) - [**Linkedin**](https://linkedin.com/in/pmfoysal) - [**Stackoverflow**](https://stackoverflow.com/users/18387916) - [**Twitter**](https://twitter.com/pmfoysal) - [**Telegram**](https://t.me/pmfoysal) - [**Whatsapp**](https://wa.me/+8801645114090) - []
 
 ## **My Skills:**
 
