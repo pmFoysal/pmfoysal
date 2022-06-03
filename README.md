@@ -9,7 +9,7 @@ Hey, Welcome Here!
 
 ## **About Me:**
 
-Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Developer. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization and build up my career as a Software Engineer in the Computer Software Industry.
+Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Jr. Fullstack Developer. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization and build up my career as a Software Engineer in the Computer Software Industry.
 
 [**Facebook**](https://facebook.com/pmfoysalz) - [**Instagram**](https://instagram.com/pmfoysalz) - [**Linkedin**](https://linkedin.com/in/pmfoysal) - [**Stackoverflow**](https://stackoverflow.com/users/18387916) - [**Twitter**](https://twitter.com/pmfoysal) - [**Telegram**](https://t.me/pmfoysal) - [**Whatsapp**](https://wa.me/+8801645114090) - [**Discord**](https://discordapp.com/users/977186632501436476)
 
