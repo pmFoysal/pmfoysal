@@ -15,23 +15,18 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Deve
 
 ## **Technical Skills:**
 
-**OS:** Windows, Android. <br>
-**Languages:** HTML, CSS, JavaScript, TypeScript, Markdown. <br>
-**CLI:** CMD, Powershell, Git Bash, MongoDB Compass, Postman, ZSH. <br>
-**Hosting:** GitHub Pages, Netlify, Firebase, Heroku. <br>
-**Database:** MongoDB, Firebase. <br>
-**Authentication:** Email, Google, Facebook, Github, Microsoft, Twitter. <br>
-**Authorization:** JSON Web Token (JWT). <br>
-**Version Control:** Git <br>
-**Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS, NodeJS. <br>
-**Softwares:** Adobe XD, PhotoShop, Illustrator, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office. <br>
+**Frontend:** HTML, CSS, JavaScript, ReactJS, Markdown, TailwindCSS, Bootstrap, SASS, Styled Components, CSS Module, DaisyUI, Payment (Stripe), Context API, Private Route, Custom Hook. <br>
+**Backend:** NodeJS, ExpressJS, MongoDB, Firebase (Database, Auth, Storage), JSON Web Token. <br>
+**Familiar:** TypeScript, NextJS, ReduxJS, React Form, React Query, Material UI, Ant Design. <br>
+**Features/Tools:** DOM, BOM, Fetch, Axios, Interceptors, Webpack, Postman, Github, Netlify, Heroku. <br>
+**Softwares:** Visual Studio Code, PhotoShop, Illustrator, Adobe XD, Figma, Microsoft Office. <br>
 
 ## **Detailed Skills:**
 
 **HTML:** HTML5, Semantic, Meta, SEO Friendly. <br>
 **CSS:** CSS3, Flex, Grid, Animation, Responsive, Media Query. <br>
 **JavaScript:** ES5, ES6, Function, Class, Array, Object, JSON. <br>
-**TypeScript:** Type, Enums, Tuples, Interface, Alias, Union, Nullable, Literal, Narrowing. <br>
+**TypeScript:** Type, Enums, Tuples, Interface, Alias, Union, Intersection, Literal, Narrowing. <br>
 **ReactJS:** JSX, Props, State, Conditional Rendering, Hooks, Lifecycle Methods, Context API, Routing, Private Routing. <br>
 **NextJS:** API, Static Site Generation, Server Side Rendering. <br>
 **MongoDB:** Create, Read, Update, Delete, Filter, Projection, Aggregation. <br>
