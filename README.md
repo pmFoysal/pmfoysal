@@ -31,10 +31,12 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Deve
 **HTML:** HTML5, Semantic, Meta, SEO Friendly. <br>
 **CSS:** CSS3, Flex, Grid, Animation, Responsive, Media Query. <br>
 **JavaScript:** ES5, ES6, Function, Class, Array, Object, JSON. <br>
+**TypeScript:** Type, Enums, Tuples, Interface, Alias, Union, Nullable, Literal, Narrowing.
 **ReactJS:** JSX, Props, State, Conditional Rendering, Hooks, Lifecycle Methods, Context API, Routing, Private Routing. <br>
 **NextJS:** API, Static Site Generation, Server Side Rendering. <br>
 **MongoDB:** Create, Read, Update, Delete, Filter, Projection, Aggregation. <br>
-**NodeJS:** API, API Protection, Verify User. <br>
+**NodeJS:** Modules (fs, http, url, path, cypto, process, os). <br>
+**ExpressJS:** API (post, get, put, patch, delete), Middlewares. <br>
 
 ## **What I Do:**
 
