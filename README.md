@@ -13,7 +13,7 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Deve
 
 [**Facebook**](https://facebook.com/pmfoysalz) - [**Instagram**](https://instagram.com/pmfoysalz) - [**Linkedin**](https://linkedin.com/in/pmfoysal) - [**Stackoverflow**](https://stackoverflow.com/users/18387916) - [**Twitter**](https://twitter.com/pmfoysal) - [**Telegram**](https://t.me/pmfoysal) - [**Whatsapp**](https://wa.me/+8801645114090) - [**Discord**](https://discordapp.com/users/977186632501436476)
 
-## **My Skills:**
+## **Technical Skills:**
 
 **OS:** Windows, Android. <br>
 **Languages:** HTML, CSS, JavaScript, TypeScript, Markdown. <br>
@@ -26,23 +26,17 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Deve
 **Library/Frameworks:** SASS, Bootstrap, TailwindCSS, CSS Module, Styled Components, ReactJS, ReduxJS, ExpressJS, NodeJS. <br>
 **Softwares:** Adobe XD, PhotoShop, Illustrator, Figma, VS Code, Atom, Brackets, Sublime, GitHub Desktop, Slack, Discord, MS Office. <br>
 
-## **Skill Details:**
+## **Detailed Skills:**
 
 **HTML:** HTML5, Semantic, Meta, SEO Friendly. <br>
 **CSS:** CSS3, Flex, Grid, Animation, Responsive, Media Query. <br>
 **JavaScript:** ES5, ES6, Function, Class, Array, Object, JSON. <br>
-**TypeScript:** Type, Enums, Tuples, Interface, Alias, Union, Nullable, Literal, Narrowing.
+**TypeScript:** Type, Enums, Tuples, Interface, Alias, Union, Nullable, Literal, Narrowing. <br>
 **ReactJS:** JSX, Props, State, Conditional Rendering, Hooks, Lifecycle Methods, Context API, Routing, Private Routing. <br>
 **NextJS:** API, Static Site Generation, Server Side Rendering. <br>
 **MongoDB:** Create, Read, Update, Delete, Filter, Projection, Aggregation. <br>
 **NodeJS:** Modules (fs, http, url, path, cypto, process, os). <br>
 **ExpressJS:** API (post, get, put, patch, delete), Middlewares. <br>
-
-## **What I Do:**
-
-**Static:** Web Design, Any Design File to HTML with CSS (Raw, Bootstrap, TailwindCSS), Website Responsiveness. <br>
-**Dynamic:** Web Development, Any Design File to ReactJS or NextJS with CSS (Raw, Bootstrap, React Bootstrap, TailwindCSS, CSS Module, Styled Components). <br>
-**Others:** Bug & Error Fixing of HTML, CSS, JavaScript, ReactJS, Bootstrap, TailwindCSS, Styled Components, Git, GitHub, Netlify, VS Code and CLI. <br>
 
 ## **Most Used Languages:**
 
