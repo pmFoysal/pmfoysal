@@ -15,35 +15,26 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Jr. Fulls
 
 ## **Technical Skills:**
 
-**Frontend:** HTML, CSS, JavaScript, ReactJS (Context API, Private Route, Custom Hook, Lazy, Suspense, Outlet), Markdown, TailwindCSS, Bootstrap, SASS, Styled Components, CSS Module, DaisyUI, Payment (Stripe). <br>
-**Backend:** NodeJS, ExpressJS, MongoDB, Firebase (Database, Auth, Storage), JSON Web Token. <br>
-**Familiar:** TypeScript, NextJS, ReduxJS, React Form, React Query, Material UI, Ant Design. <br>
-**Features/Tools:** DOM, BOM, Fetch, Axios, Interceptors, Webpack, Postman, Github, Netlify, Heroku. <br>
-**Softwares:** Visual Studio Code, PhotoShop, Illustrator, Adobe XD, Figma, Microsoft Office. <br>
-
-## **Detailed Skills:**
-
 **HTML:** HTML5, Semantic, Meta, SEO Friendly. <br>
 **CSS:** CSS3, Flex, Grid, Animation, Responsive, Media Query. <br>
+**Styling:** SASS, Styled Components, CSS Module, TailwindCSS, DaisyUI, Bootstrap. <br>
 **JavaScript:** ES5, ES6, Function, Class, Array, Object, JSON. <br>
 **TypeScript:** Type, Enums, Tuples, Interface, Alias, Union, Intersection, Literal, Narrowing. <br>
-**ReactJS:** JSX, Props, State, Conditional Rendering, Hooks, Lifecycle Methods, Context API, Routing, Outlet, Private Routing. <br>
-**NextJS:** API, Static Site Generation, Server Side Rendering. <br>
+**ReactJS:** Components (Static, Dynamic), Routing (Static, Dynamic, Nested), CR, HOC, Hooks, Lifecycle Methods, Context API. <br>
+**NextJS:** API, Routing (Static, Dynamic, Nested), SSR, SSG, CSR, ISR. <br>
 **MongoDB:** Create, Read, Update, Delete, Filter, Projection, Aggregation. <br>
 **NodeJS:** Modules (fs, http, url, path, cypto, process, os). <br>
 **ExpressJS:** API (post, get, put, patch, delete), Middlewares. <br>
+**Firebase:** Hosting, Database, Storage, Authentication with JSON Web Token. <br>
+**Others:** Markdown, NPM, Yarn, Webpack, Git, GitHub, Netlify, Heroku, VS Code, Adobe (Ps, Ai, Xd), MS Office.
 
-## **Most Used Languages:**
+## **Overall Activities Summary:**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysal" />
-
-## **Overall Github Activities:**
-
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Github%20Activities" alt="activity-of-pmfoysal" />
-
-## **Total Contribution Streaks:**
-
+&nbsp;&nbsp;
 <img src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysal" />
+</p>
 
 ## **Total Contributions Graph:**
 
