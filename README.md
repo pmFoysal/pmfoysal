@@ -11,7 +11,7 @@ Hey, Welcome Here!
 
 Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Developer. I am eager to learn new things for updating and spreading my knowledge. I want to work with any renowned team, company or organization and build up my career as a Software Engineer in the Computer Software Industry.
 
-[**Facebook**](https://facebook.com/pmfoysalz) - [**Instagram**](https://instagram.com/pmfoysalz) - [**Linkedin**](https://linkedin.com/in/pmfoysal) - [**Stackoverflow**](https://stackoverflow.com/users/18387916) - [**Twitter**](https://twitter.com/pmfoysal) - [**Telegram**](https://t.me/pmfoysal) - [**Whatsapp**](https://wa.me/+8801645114090) - []
+[**Facebook**](https://facebook.com/pmfoysalz) - [**Instagram**](https://instagram.com/pmfoysalz) - [**Linkedin**](https://linkedin.com/in/pmfoysal) - [**Stackoverflow**](https://stackoverflow.com/users/18387916) - [**Twitter**](https://twitter.com/pmfoysal) - [**Telegram**](https://t.me/pmfoysal) - [**Whatsapp**](https://wa.me/+8801645114090) - [**Discord**](https://discordapp.com/users/977186632501436476)
 
 ## **My Skills:**
 
@@ -42,53 +42,18 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Mern Deve
 **Dynamic:** Web Development, Any Design File to ReactJS or NextJS with CSS (Raw, Bootstrap, React Bootstrap, TailwindCSS, CSS Module, Styled Components). <br>
 **Others:** Bug & Error Fixing of HTML, CSS, JavaScript, ReactJS, Bootstrap, TailwindCSS, Styled Components, Git, GitHub, Netlify, VS Code and CLI. <br>
 
-## **Total Languages: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
+## **Most Used Languages:**
 
-<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysal" />
-<!-- &nbsp;
-&nbsp;
-<img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysalx&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysalx" />
-&nbsp;
-&nbsp;
-<img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysaly&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysaly" />
-&nbsp;
-&nbsp;
-<img width="23.875%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmfoysalz&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&langs_count=10" alt="languages-of-pmfoysalz" /> -->
-</p>
 
-## **Total Activities: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
+## **Overall Github Activities:**
 
-<p>
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysal" alt="activity-of-pmfoysal" />
-&nbsp;
-&nbsp;
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysalx&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysalx" alt="activity-of-pmfoysalx" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Github%20Activities" alt="activity-of-pmfoysal" />
 
-<p>
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysaly&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysaly" alt="activity-of-pmfoysaly" />
-&nbsp;
-&nbsp;
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=pmfoysalz&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Activity%20of%20pmfoysalz" alt="activity-of-pmfoysalz" />
-</p>
+## **Total Contribution Streaks:**
 
-## **Total Streaks: (pmfoysal, pmfoysalx, pmfoysaly, pmfoysalz)**
+<img src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysal" />
 
-<p>
-<img width="48.5%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysal" />
-&nbsp;
-&nbsp;
-<img width="48.5%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysalx&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysalx" />
-</p>
-
-<p>
-<img width="48.5%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysaly&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysaly" />
-&nbsp;
-&nbsp;
-<img width="48.5%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysalz&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysalz" />
-</p>
-
-## **Total Contributions:**
+## **Total Contributions Graph:**
 
 ![](https://activity-graph.herokuapp.com/graph/?username=pmfoysal&bg_color=2c323a&color=fa4eab&line=fa4eab&point=eeeeee&hide_border=true)
