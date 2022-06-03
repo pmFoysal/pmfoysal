@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome to Foysal Ahmmed's Profile!
+Welcome to my Profile!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -8,44 +8,7 @@ Welcome to Foysal Ahmmed's Profile!
 </p>
 
 <p align="center">
-<a href="https://facebook.com/pmfoysalz" target="_blank">
-<img src="icons/facebook.png" alt="Facebook" title="Facebook" height="42" width="42"/>
-</a>
-&nbsp;
-&nbsp;
-<a href="https://instagram.com/pmfoysalz" target="_blank">
-<img src="icons/instagram.png" alt="Instagram" title="Instagram" height="42" width="42"/>
-</a>
-&nbsp;
-&nbsp;
-<a href="https://twitter.com/pmfoysal" target="_blank">
-<img src="icons/twitter.png" alt="Twitter" title="Twitter" height="42" width="42"/>
-</a>
-&nbsp;
-&nbsp;
-<a href="https://linkedin.com/in/pmfoysal" target="_blank">
-<img src="icons/linkedin.png" alt="LinkedIn" title="LinkedIn" height="42" width="42"/>
-</a>
-&nbsp;
-&nbsp;
-<a href="https://github.com/pmfoysalz" target="_blank">
-<img src="icons/github.png" alt="GitHub" title="GitHub" height="42" width="42"/>
-</a>
-&nbsp;
-&nbsp;
-<a href="https://t.me/pmfoysal" target="_blank">
-<img src="icons/telegram.png" alt="Telegram" title="Telegram" height="42" width="42"/>
-</a>
-&nbsp;
-&nbsp;
-<a href="https://wa.me/+8801645114090" target="_blank">
-<img src="icons/whatsapp.png" alt="Whatsapp" title="Whatsapp" height="42" width="42"/>
-</a>
-&nbsp;
-&nbsp;
-<a href="https://discordapp.com/users/922855397981814804" target="_blank">
-<img src="icons/discord.png" alt="Discord" title="Discord" height="42" width="42"/>
-</a>
+  [**Facebook**](https://facebook.com/pmfoysalz)
 </p>
 
 <br>
