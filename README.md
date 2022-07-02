@@ -30,10 +30,10 @@ Hi, I am **Foysal Ahmmed**, a dedicated, passionate and self motivated Jr. Fulls
 
 ## **Overall Activities Summary:**
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Github%20Activities" alt="activity-of-pmfoysal" />
+<p width="100%">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pmfoysal&count_private=true&show_icons=true&hide_border=true&bg_color=2c323a&text_color=eee&icon_color=fa4eab&title_color=fa4eab&cache_seconds=1800&include_all_commits=false&custom_title=Overall%20Github%20Activities" alt="activity-of-pmfoysal" />
 &nbsp;
-<img src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysal" />
+<img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=pmfoysal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C323A&ring=FA4EAB&currStreakNum=FA4EAB&fire=FA4EAB&sideNums=FA4EAB&currStreakLabel=EEEEEE&sideLabels=EEEEEE&dates=EEEEEE&stroke=EEEEEE84" alt="streak-of-pmfoysal" />
 </p>
 
 ## **Total Contributions Graph:**
