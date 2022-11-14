@@ -4,7 +4,7 @@ Hey, Welcome Here!
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Fullstack%20Web%20Developer;Learning%20Web%20Development%20Continiously;Learned%205%20Web%20Languages;Completed%204%2B%20Fullstack%20Projects;Also%2050%2B%20Small%20Projects&font=baloo%20da%202&center=true&height=45&color=fa4eab&vCenter=true&size=20">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20Fullstack%20Web%20Developer;Learning%20Web%20Development%20Continiously;Learned%205%20Web%20Languages;Completed%205%2B%20Fullstack%20Projects;Also%2050%2B%20Small%20Projects&font=baloo%20da%202&center=true&height=45&color=fa4eab&vCenter=true&size=20">
 </p>
 
 ## **About Me:**
